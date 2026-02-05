@@ -1,4 +1,4 @@
-day,weekday,name
+day,weekday,name,role
 02.02.2026,mo,kvothek
 03.02.2026,tu,luficer
 04.02.2026,we,calziferfire
@@ -6,3 +6,10 @@ day,weekday,name
 06.02.2026,fr,fatuum
 07.02.2026,sa,sphere
 08.02.2026,so,feivel
+09.02.2026,mo,tbd,R4
+10.02.2026,tu,tbd,VS1
+11.02.2026,we,tbd,R4
+12.02.2026,th,tbd,EA
+13.02.2026,fr,tbd,R4/5
+14.02.2026,sa,tbd,DS-MVP
+15.02.2026,so,tbd,STAR
