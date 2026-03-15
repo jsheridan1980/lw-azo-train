@@ -5,7 +5,7 @@ week,day,weekday,name,role
 001,12.02.2026,th,joaocosta11,P
 001,13.02.2026,fr,Giorgiotown,P
 001,14.02.2026,sa,FATUUM,DS-MVP-A
-001,15.02.2026,so,feimel,R4/5
+001,15.02.2026,su,feimel,R4/5
 002,16.02.2026,mo,Bugab0o,P
 002,17.02.2026,tu,Tyskie 66,P
 002,18.02.2026,we,Cluster82,P
@@ -19,7 +19,7 @@ week,day,weekday,name,role
 003,26.02.2026,th,Hhjjjjcg,P
 003,27.02.2026,fr,cappu97,P
 003,28.02.2026,sa,SNEAKY BUNNY,DS-MVP-B
-003,01.03.2026,su,Feivel D MauS,P
+003,01.03.2026,su,Feivel D MauS,R4/5
 004,02.03.2026,mo,RAV 28,P
 004,03.03.2026,tu,Giorgiotown,P (x)
 004,04.03.2026,wd,Haulsen,P
@@ -39,5 +39,5 @@ week,day,weekday,name,role
 006,18.03.2026,wd,,P
 006,19.03.2026,th,,P
 006,20.03.2026,fr,,P
-006,21.03.2026,sa,,DS-MVP-A
+006,21.03.2026,sa,Feivel D MauS,DS-MVP-A
 006,22.03.2026,su,,R4/5
