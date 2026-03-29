@@ -18,8 +18,8 @@
     * 🚆 Traindriver: **(AE)** Award of Excellence (elected by R4/5 votes on sunday, entries till sunday morning)
     * 👑 VIP: Performance-VIP (R3)
 * Friday
-    * 🚆 Traindriver: **(R4/5)** (can be gifted someone else)
-    * 👑 VIP: Performance-VIP (R3)
+    * 🚆 Traindriver: **(AE)** Award of Excellence (elected by R4/5 votes on sunday, entries till sunday morning)
+    * 👑 VIP: R4/R5-VIP
 * Saturday
     * 🚆 Traindriver: **(DS-MVP-B)** [DS-MVP Team B](001-ds-b-mvp.csv) OR **(DS-MVP-A)** [DS-MVP Team A](002-ds-a-mvp.csv) (Rotating)
     * 👑 VIP: DS-MVP-A / B (Rotating)
