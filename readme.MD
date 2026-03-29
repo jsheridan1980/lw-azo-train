@@ -1,7 +1,11 @@
 # AZO Alliance train planning
 
+## Ranks
+Saving Week: 35 for R2, 45 for R3
+Push Week: 40 for R2, 55 for R3
+
 ## 🚆 Train- & VIP-plan (week overview)
-1. Every player can only be once traindriver within 14 days and once vip within 14 days
+1. Every player can only be once traindriver within 21 days and once vip within 21 days
 2. In case of ranking violate rule 1) the next person in the ranking will take the place
 ---
 
