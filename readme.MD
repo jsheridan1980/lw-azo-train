@@ -5,8 +5,9 @@ Saving Week: 35 for R2, 45 for R3
 Push Week: 40 for R2, 55 for R3
 
 ## 🚆 Train- & VIP-plan (week overview)
-1. Every player can only be once traindriver within 21 days and once vip within 21 days
+1. Every player can only be once traindriver within 4 weeks and once vip within 4 weeks
 2. In case of ranking violate rule 1) the next person in the ranking will take the place
+3. Vip - Automated Python Wheel based on VS performance score. Entry requirement : R3 
 ---
 
 * Monday
@@ -28,7 +29,7 @@ Push Week: 40 for R2, 55 for R3
     * 🚆 Traindriver: **(DS-MVP-B)** [DS-MVP Team B](001-ds-b-mvp.csv) OR **(DS-MVP-A)** [DS-MVP Team A](002-ds-a-mvp.csv) (Rotating)
     * 👑 VIP: DS-MVP-A / B (Rotating)
 * Sonntag
-    * 🚆 Traindriver: **(STAR)** [Alliance-Star-MVP](006-alliance-star.csv) (Extra)
+    * 🚆 Traindriver: **(R4)** (Rotate)
     * 👑 VIP: R4/5-VIP
 
 ToDo each week:
