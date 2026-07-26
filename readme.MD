@@ -28,7 +28,7 @@ Push Week: 40 for R2, 55 for R3
 * Saturday
     * 🚆 Traindriver: **(DS-MVP-B)** [DS-MVP Team B](001-ds-b-mvp.csv) OR **(DS-MVP-A)** [DS-MVP Team A](002-ds-a-mvp.csv) (Rotating)
     * 👑 VIP: DS-MVP-A / B (Rotating)
-* Sonntag
+* Sunday
     * 🚆 Traindriver: **(R4)** (Rotate)
     * 👑 VIP: R4/5-VIP
 
